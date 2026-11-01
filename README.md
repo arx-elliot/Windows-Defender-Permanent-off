@@ -1,0 +1,1 @@
+ZIP PASS .. 1 .. This is Windows permanent offer defender offer - HOW TO USE IT - Run the provided script as an administrator to permanently disable Windows Defender on your system.  Also u can re on the defender by using this exe again. >>> ⚠️Before extracting this file make sure that ur defender and temper protecion is turn off ⚠️<<<<
